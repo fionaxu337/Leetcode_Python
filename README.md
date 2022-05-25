@@ -1,1 +1,1 @@
-# Leetcode_python
+# This repo is meant to for a study journal of Leetcode
