@@ -2,4 +2,6 @@ class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return True if len(set(nums)) < len(nums) else False
 
-# 
+# can create set from a list 
+# set: no duplicate values 
+# set(list) will only return the unique values, all the duplicates are removed 
